@@ -1,6 +1,6 @@
 @import url('https://fonts.googleapis.com/css2?family=Open+Sans:wght@300&display=swap');
 body {
-    background-color: #fff;
+    background-color: #f9fafc;
     font-family: 'Open Sans', sans-serif;
     margin: 0;
 }
@@ -58,6 +58,7 @@ footer {
 
 h1 {
     margin: 0;
+    color: #000;
 }
 
 .button a {
